@@ -1,0 +1,12 @@
+{
+  "name": "web-crawling-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "pup:start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
